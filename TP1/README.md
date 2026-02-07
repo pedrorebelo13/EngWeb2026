@@ -4,7 +4,7 @@
 ### Por:
 	- Pedro Manuel Macedo Rebelo
 	- a104091
-	<img src="../eu.png" width="30%" alt="Foto de Perfil"/>
+<img src="../eu.png" alt="foto" width="300">
 
 ### Resumo:
     Definir a estrutura de um website de exploração de um dataset de reparações automoveis.
