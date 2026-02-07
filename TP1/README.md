@@ -7,7 +7,7 @@
 <img src="../eu.png" alt="foto" width="300">
 
 ### Resumo:
-    Definir a estrutura de um website de exploração de um dataset de reparações automoveis.
+    Definir a estrutura de um website de exploração de um dataset de reparações automóveis.
     Deve ser apresentado uma lista dos dados de possivel consulta e as relativas listas de cada dado.
     Os dados sao reparações, intervenções e marcas/modelos.
     Cada dado deve também ter uma pagina individual para cada elemento da lista.
